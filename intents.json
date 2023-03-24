@@ -39,8 +39,16 @@
         "What do you sell?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "Our Mission: \
+Investing our attention to every detail at the onset, ensures synergy between \
+development phases. NGI Investments continues to develop enjoyable spaces that \
+are essential to the community \
+https://ngiinvestments.com/properties",
+        "Our Vision: \
+From multi-tenant retail developments, to affordable apartments. NGI \
+Investments continues to be a trusted partner in developing quality properties \
+that are long term, stable assets, and provide direct benefit to the community.\
+https://ngiinvestments.com/properties"
       ]
     },
     {
@@ -57,15 +65,41 @@
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "investment",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "What do you do?",
+        "Where Do You See Sales Trending in the Next 12 to 24 Months?",
+        "What Is the Best Use for the Cash on the Company's Balance Sheet? \
+How Does the Company Plan to Raise Capital in Order to Fund Future Growth?",
+        "Who Are the Emerging Competitors in the Industry in Which You Operate?",
+        "What Part of the Business Is Giving You the Most Trouble Now?",
+        "How Close Is Wall Street in Terms of Estimating Your Company's Earnings Results?",
+        "What Part of the Business Do You Think Is Being Ignored That Has More Upside \
+Potential Than Wall Street Is Giving It?",
+        "Do You Have Any Plans to Advance or Promote Properties in Africa, Asia or Middle East?",
+        "What Catalysts Will Affect the Properties Going Forward?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "We have a global client base. contact us on: https://ngiinvestments.com/contact-us",
+        "Contact us, https://ngiinvestments.com/contact-us",
+        "NGI is a specialized business that is engaged in the \
+business of investing pooled capital into financial \
+securities. Investment companies can be privately or \
+publicly owned, and they engage in the management, sale, \
+and marketing of investment products to the public.\
+Contact us, https://ngiinvestments.com/contact-us"
+      ]
+    },
+     {
+      "tag": "assets",
+      "patterns": [
+        "What are your assets?",
+        "I want to diversify",
+      ],
+      "responses": [
+        "Visit https://ngiinvestments.com/properties",
+        "Hello, thanks for visiting. Check out available properties \
+https://ngiinvestments.com/properties"
       ]
     },
     {
